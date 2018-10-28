@@ -1,0 +1,9 @@
+../rtl/sha256_lib.v
+../rtl/sha256_main_calhash.v
+../rtl/sha256_main_calvar.v
+../rtl/sha256_main_calw.v
+../rtl/sha256_main_ctrl.v
+../rtl/sha256_main_rom.v
+../rtl/sha256_main.v
+../rtl/sha256_pad.v
+../rtl/sha256_top.v
